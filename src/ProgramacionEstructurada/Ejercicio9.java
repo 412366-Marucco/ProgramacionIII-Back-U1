@@ -1,3 +1,5 @@
+package ProgramacionEstructurada;
+
 import java.util.Scanner;
 
 //9. Ingresar un número n y a continuación n números positivos. Informar la cantidad

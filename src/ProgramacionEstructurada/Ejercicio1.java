@@ -1,3 +1,5 @@
+package ProgramacionEstructurada;
+
 import java.util.Scanner;
 
 //Declarar dos variables enteras y cargar sus valores por teclado. Informar su suma,

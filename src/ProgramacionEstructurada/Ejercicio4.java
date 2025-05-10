@@ -1,4 +1,4 @@
-//Ingresar nombre y altura de dos personas, informar el nombre de la más alta.
+package ProgramacionEstructurada;//Ingresar nombre y altura de dos personas, informar el nombre de la más alta.
 
 import java.util.Scanner;
 

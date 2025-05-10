@@ -1,4 +1,4 @@
-//Ingresar la cantidad de horas trabajadas por un empleado y el sueldo que cobra
+package ProgramacionEstructurada;//Ingresar la cantidad de horas trabajadas por un empleado y el sueldo que cobra
 //por hora. Indique el total a cobrar teniendo en cuenta que si trabajó más de 180
 //horas las excedentes las cobra con un 50 % de aumento
 

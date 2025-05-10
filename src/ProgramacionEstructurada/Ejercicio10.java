@@ -1,4 +1,4 @@
-//10.Ingresar un número y validar que sea positivo. Si no lo es continuar solicitándolo
+package ProgramacionEstructurada;//10.Ingresar un número y validar que sea positivo. Si no lo es continuar solicitándolo
 //al usuario hasta que ingrese un número correcto
 
 import java.util.Scanner;

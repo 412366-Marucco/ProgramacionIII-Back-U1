@@ -1,4 +1,4 @@
-//Hacer un programa que ingrese el precio de un artículo a la venta y calcule el
+package ProgramacionEstructurada;//Hacer un programa que ingrese el precio de un artículo a la venta y calcule el
 //precio con IVA.
 
 import java.util.Scanner;

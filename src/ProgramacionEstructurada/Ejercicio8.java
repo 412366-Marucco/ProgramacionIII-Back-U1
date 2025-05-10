@@ -1,3 +1,5 @@
+package ProgramacionEstructurada;
+
 import java.util.Scanner;
 
 //Ingresar 10 números por teclado, informar su suma y promedio.

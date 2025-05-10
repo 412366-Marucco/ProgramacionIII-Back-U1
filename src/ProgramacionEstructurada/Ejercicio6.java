@@ -1,4 +1,4 @@
-//6. Ingresar un año e indicar si ese año es bisiesto. Un año es bisiesto si es múltiplo
+package ProgramacionEstructurada;//6. Ingresar un año e indicar si ese año es bisiesto. Un año es bisiesto si es múltiplo
 //de 4 y no es múltiplo de 100 o si es múltiplo de 400.
 
 import java.util.Scanner;

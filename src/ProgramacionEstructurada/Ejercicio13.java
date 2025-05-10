@@ -1,4 +1,4 @@
-//12.Desarrollar un programa que permita ingresar la antigüedad los autos de una
+package ProgramacionEstructurada;//12.Desarrollar un programa que permita ingresar la antigüedad los autos de una
 //concesionaria de usados. Finalizar la carga cuando se ingrese 0. Por cada auto
 //ingresado mostrar por pantalla un mensaje adecuado con el siguiente criterio: si
 //el auto tiene entre 1 y 5 años mostrar el texto “NUEVO”, si tiene entre 6 y 10
